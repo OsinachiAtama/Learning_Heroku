@@ -4,7 +4,7 @@
   "description": "node app ",
   "main": "app_for_heroku.js",
   "scripts": {
-  "start": "node app_for_heroku.js"
+  "start": "node app2_heroku.js"
 },
   "repository": {
   "type": "git",
